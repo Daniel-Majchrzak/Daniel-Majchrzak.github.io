@@ -1,2 +1,2 @@
 # Daniel-Majchrzak.github.io
-Personal webpage
+personal webpage
