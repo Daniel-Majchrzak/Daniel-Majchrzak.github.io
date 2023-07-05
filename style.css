@@ -5,21 +5,27 @@
     font-family: 'poppins', sans-serif;
 }
 
-ul{
+.ul2{
     list-style:none;
-
+    padding-left:8px;
 }
 
-li{
+
+
+.li2{
     display: inline-block;
     margin-right: 5px;
 }
 
-.main{
+
+
+
+
+.home{
     min-height: 100vh;
     width: 100%;
     background-color:papayawhip;
-    background-image: url("HomeGifTest.gif");
+    background-image: url("Wollongong\ Ocean\ from\ Sea\ Cliff\ Bridge.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,3 +34,39 @@ li{
     text-align: center;
 
 }
+
+
+.base{
+    min-height: 100vh;
+    width: 100%;
+    background-color:#f2deca;
+    padding-top:20px; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title{
+    text-align:center; 
+    padding-top:80px; 
+    padding-bottom:10px; 
+    padding-left:30px; 
+    padding-right:250px;
+    color:#2b1e1c;
+    font-size:130%
+    
+}
+
+
+
+.body{
+    text-align:left; 
+    padding-bottom:80px; 
+    padding-left:80px; 
+    padding-right:250px;
+    color:#2b1e1c;
+    font-size:100%
+    
+}
+
+a:hover{ text-decoration: underline;}
